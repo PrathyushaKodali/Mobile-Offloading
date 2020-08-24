@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">offload_slave</string>
+    <string name="slaveName">Slave Name: %s</string>
+    <string name="master_name">Master Name: %s</string>
+    <string name="no_master">TARDIS</string>
+
+    <string name="status_searching">Network status : Searching</string>
+    <string name="STATUS_DISCONNECTED">Network status : Connected</string>
+    <string name="STATUS_CONNECTED">Network status : Connected</string>
+</resources>
